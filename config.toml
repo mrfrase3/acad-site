@@ -55,17 +55,17 @@ enableGitInfo = false
 
   # Your details.
   name = "Fraser Bullock"
-  role = "Honours Student"
+  role = "Honours Student, Senior Research Assistant, Technical Director"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "The University of Western Australia", url = "https://uwa.edu.au" } ]
+  organizations = [ { name = "The University of Western Australia", url = "https://uwa.edu.au" }, { name = "UWA System Health Lab", url = "http://uwa.engineering" }, { name = "ThinkHub.io", url = "https://thinkhub.io" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "fraser.bullock@uwa.edu.au"
   address = ""
-  office_hours = "
+  office_hours = ""
   phone = ""
   skype = ""
   telegram = ""
@@ -257,10 +257,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+#[[menu.main]]
+# name = "Publications"
+#  url = "#publications_selected"
+#  weight = 2
 
 [[menu.main]]
   name = "Posts"
@@ -272,15 +272,25 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/mrfrase3"
+  weight = 7
+
+[[menu.main]]
+  name = "Blog"
+  url = "http://3mr.fr"
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

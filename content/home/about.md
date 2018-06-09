@@ -12,19 +12,24 @@ weight = 5
   interests = [
     "Web Applications",
     "Coding Education",
-    "Virtual and Augmented Reality"
+    "Virtual and Augmented Reality",
+    "Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Honours in Computer Science"
+  institution = "The University of Western Australia"
+  year = "Current"
+
+[[education.courses]]
   course = "B.Sc in Engineering and Computer Science"
   institution = "The University of Western Australia"
   year = 2017
- 
 +++
 
 # Biography
 
-Fraser Bullock is an honours student for Computer Science at the University of Western Australia. His research interests include the latest in Web Application technologied, coding education, and Virtual and Augmented reality. He is also a Senior Research Assistant for the UWA System Health Lab.
+Fraser Bullock is an honours student for Computer Science at the University of Western Australia. His research interests include the latest in Web Application technologies, coding education, and Virtual and Augmented reality. He is also a Senior Research Assistant for the UWA System Health Lab and Technical Director of ThinkHub.io.
 
 
