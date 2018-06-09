@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronics on Fraser Bullock</title>
+    <link>/tags/electronics/</link>
+    <description>Recent content in Electronics on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 17 May 2017 19:15:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/electronics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a Tix Clock</title>
+      <link>/post/making-a-tix-clock/</link>
+      <pubDate>Wed, 17 May 2017 19:15:00 +0800</pubDate>
+      
+      <guid>/post/making-a-tix-clock/</guid>
+      <description>Having looked at other peoples projects of LED matrix screens, I have always wanted to make one. The only problem was that I did not have a compelling project to force me to do it until a few months ago where a mate of mine, Alex, showed me a tix clock and I was instantly hooked.
+The concept is pretty simple, the clock is in 24 hour time with each section correlating to a digit.</description>
+    </item>
+    
+  </channel>
+</rss>

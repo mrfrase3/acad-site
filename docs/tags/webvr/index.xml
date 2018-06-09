@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebVR on Fraser Bullock</title>
+    <link>/tags/webvr/</link>
+    <description>Recent content in WebVR on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 01:21:06 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/webvr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A-Blocks</title>
+      <link>/project/a-blocks/</link>
+      <pubDate>Sun, 10 Jun 2018 01:21:06 +0800</pubDate>
+      
+      <guid>/project/a-blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiplayer Painting</title>
+      <link>/project/multiplayer-painting/</link>
+      <pubDate>Sun, 10 Jun 2018 00:18:58 +0800</pubDate>
+      
+      <guid>/project/multiplayer-painting/</guid>
+      <description>This server uses a-painter&amp;rsquo;s main repo, except instead of using a cli webpack server, it hosts its own express server with webpack implemented and then runs a socket.io server on top. It also injects the multiplayer layer into the client application.
+This serves as a basic example and the method can easily be modified to support different communication types, like mongo, firebase, webRTC, etc&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

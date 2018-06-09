@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fraser Bullock</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a Tix Clock</title>
+      <link>/post/making-a-tix-clock/</link>
+      <pubDate>Wed, 17 May 2017 19:15:00 +0800</pubDate>
+      
+      <guid>/post/making-a-tix-clock/</guid>
+      <description>Having looked at other peoples projects of LED matrix screens, I have always wanted to make one. The only problem was that I did not have a compelling project to force me to do it until a few months ago where a mate of mine, Alex, showed me a tix clock and I was instantly hooked.
+The concept is pretty simple, the clock is in 24 hour time with each section correlating to a digit.</description>
+    </item>
+    
+    <item>
+      <title>Visualising Gravity</title>
+      <link>/post/visualising-gravity/</link>
+      <pubDate>Thu, 19 Jan 2017 13:41:00 +0800</pubDate>
+      
+      <guid>/post/visualising-gravity/</guid>
+      <description>Check out what I&amp;rsquo;m talking about.
+Recently I&amp;rsquo;ve been playing around with the Web Audio API more specifically using it for visualisers.
+One of the main reasons this API exists is to make visualisers for audio, but for some reason, you don&amp;rsquo;t see this very much on the internet. Why is something that is beyond me, but in the mean time, I&amp;rsquo;m having fun with it.
+Another API that&amp;rsquo;s been around is matter js, a physics engine written in js for browsers.</description>
+    </item>
+    
+  </channel>
+</rss>

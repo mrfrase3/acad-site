@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Fraser Bullock</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Makings</title>
+      <link>/categories/makings/</link>
+      <pubDate>Wed, 17 May 2017 19:15:00 +0800</pubDate>
+      
+      <guid>/categories/makings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random Web Doodles</title>
+      <link>/categories/random-web-doodles/</link>
+      <pubDate>Thu, 19 Jan 2017 13:41:00 +0800</pubDate>
+      
+      <guid>/categories/random-web-doodles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

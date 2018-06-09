@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Fraser Bullock</title>
+    <link>/tags/education/</link>
+    <description>Recent content in Education on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 01:21:06 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A-Blocks</title>
+      <link>/project/a-blocks/</link>
+      <pubDate>Sun, 10 Jun 2018 01:21:06 +0800</pubDate>
+      
+      <guid>/project/a-blocks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chromeduino</title>
+      <link>/project/chromeduino/</link>
+      <pubDate>Sun, 10 Jun 2018 00:21:07 +0800</pubDate>
+      
+      <guid>/project/chromeduino/</guid>
+      <description>Chromeduino is a coding interface made for ChromeOS. The project was originally created by Casey Halverson (Spaceneedle) and was lacking in terms of features and stability. As this application is the only free option for coding Arduinos with ChromeOS, there is a need for such a tool in classrooms, where all the students have educational Chromebooks but the teacher/school does not have the resources to pay for the other editors.</description>
+    </item>
+    
+    <item>
+      <title>RemoteDojo</title>
+      <link>/project/remotedojo/</link>
+      <pubDate>Sun, 10 Jun 2018 00:19:30 +0800</pubDate>
+      
+      <guid>/project/remotedojo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

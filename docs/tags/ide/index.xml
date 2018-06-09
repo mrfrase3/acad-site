@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IDE on Fraser Bullock</title>
+    <link>/tags/ide/</link>
+    <description>Recent content in IDE on Fraser Bullock</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 10 Jun 2018 00:21:07 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chromeduino</title>
+      <link>/project/chromeduino/</link>
+      <pubDate>Sun, 10 Jun 2018 00:21:07 +0800</pubDate>
+      
+      <guid>/project/chromeduino/</guid>
+      <description>Chromeduino is a coding interface made for ChromeOS. The project was originally created by Casey Halverson (Spaceneedle) and was lacking in terms of features and stability. As this application is the only free option for coding Arduinos with ChromeOS, there is a need for such a tool in classrooms, where all the students have educational Chromebooks but the teacher/school does not have the resources to pay for the other editors.</description>
+    </item>
+    
+  </channel>
+</rss>
